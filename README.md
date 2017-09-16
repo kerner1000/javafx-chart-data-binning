@@ -1,0 +1,1 @@
+# javafx-chart-data-binning
